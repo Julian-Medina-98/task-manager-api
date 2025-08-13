@@ -1,6 +1,6 @@
 # API de Gestión de Tareas
 
-Esta es una API REST desarrollada en Laravel 9+ para gestionar tareas personales, con autenticación via Sanctum y integraciones externas con OpenWeatherMap (clima) y Brevo (emails).
+Esta es una API REST desarrollada en Laravel 10+ para gestionar tareas personales, con autenticación via Sanctum y integraciones externas con OpenWeatherMap (clima) y Brevo (emails).
 
 ## Requisitos
 - PHP 8+
